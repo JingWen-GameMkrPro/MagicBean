@@ -3,12 +3,12 @@
 ## 🕯️ Contents
 * [Requirements](#Require-Title)
 * [Install and Run Game](#Install-Title)
-* [Game preview](#Preview-Title)
+* [Game Trailer](#Preview-Title)
 * [Game Tutorial](#Tutorial-Title)
 * [Game Assets Description](#Asset-Title)
 ## 🕯️ Requirements <a name="Require-Title"></a>
 ## 🕯️ Install and Run Game <a name="Install-Title"></a>
-## 🕯️ Game Preview <a name="Preview-Title"></a>
+## 🕯️ Game Trailer <a name="Trailer-Title"></a>
 [![Game Preview](https://file.notion.so/f/f/29dc6b77-cc77-4dce-b299-866d6ff7c824/a55fe535-0e08-4f5b-be4a-36ae45cf4285/MagicBeanYoutubeIMG.png?id=ced9cf69-0a76-450b-b2ed-f4f35281235e&table=block&spaceId=29dc6b77-cc77-4dce-b299-866d6ff7c824&expirationTimestamp=1715760000000&signature=0fwVZb8MbUXd2uGrAiKrt8ALPGxHrvlRV3SgBxEzuFw&downloadName=MagicBeanYoutubeIMG.png)](https://youtu.be/jOlzxBTxuZg?si=ZdTqOCf6b9-mu6jg)
 ## 🕯️ Game Tutorial <a name="Tutorial-Title"></a>
 ## 🕯️ Game Assets Description <a name="Asset-Title"></a>

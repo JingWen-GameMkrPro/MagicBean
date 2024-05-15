@@ -7,7 +7,8 @@
 * **[Game Trailer](#Trailer-Title)**
 * **[Game Tutorial](#Tutorial-Title)**
 * **[Game Assets Description](#Asset-Title)**
-## 🕯️ About This Game <a name="Description-Title"></a>
+<a name="Description-Title"></a>
+## 🕯️ About This Game 
 **[⏫BACK TO TOP](#Top-Title)**
 * This game blends elements from the fairy tale 'Jack and the Beanstalk' with Greek mythology, allowing players to take on the roles of Jack or the Giant. 
 * It unfolds in strategic battles on floating islands, determining the fate of the world.
@@ -20,7 +21,8 @@
   * Number of Players: 2
   * Language: English
   * Must be connected to the same local network.
-## 🕯️ Install and Run Game <a name="Install-Title"></a>
+<a name="Install-Title"></a>
+## 🕯️ Install and Run Game 
 **[⏫BACK TO TOP](#Top-Title)**
 ## 🕯️ Game Trailer <a name="Trailer-Title"></a>
 **[⏫BACK TO TOP](#Top-Title)**

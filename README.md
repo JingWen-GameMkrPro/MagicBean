@@ -15,11 +15,11 @@
 ![](https://file.notion.so/f/f/29dc6b77-cc77-4dce-b299-866d6ff7c824/3d6778d8-3fed-452d-8290-cc2c66702276/DescriptionIMG.png?id=655d219c-e462-40bb-803a-74cfe57190ed&table=block&spaceId=29dc6b77-cc77-4dce-b299-866d6ff7c824&expirationTimestamp=1715832000000&signature=XI1cG2vce-Pa4i6cMew3Tm8d8WAvPM-BSVS76TbiSjU&downloadName=DescriptionIMG.png)
 ## 🕯️ Requirements For Playing <a name="Require-Title"></a>
 **[⏫BACK TO TOP](#Top-Title)**
-  * **OS**: __Windows__
-  * **Input Device**: __Keyboard、Mouse__
-  * **Number of Players**: __2__
-  * **Language**: __English__
-  * Must be connected to the __same local network.__
+  * OS: Windows
+  * Input Device: Keyboard、Mouse
+  * Number of Players: 2
+  * Language: English
+  * Must be connected to the same local network.
 ## 🕯️ Install and Run Game <a name="Install-Title"></a>
 **[⏫BACK TO TOP](#Top-Title)**
 ## 🕯️ Game Trailer <a name="Trailer-Title"></a>

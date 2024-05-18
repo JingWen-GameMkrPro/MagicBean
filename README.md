@@ -27,11 +27,29 @@
 <a name="Install-Title"></a>
 ## 🕯️ Install and Run Game 
 **[⏫BACK TO TOP](#Top-Title)**
-
+* Please ensure that the game installation path is in English and contains no Chinese characters.
+* Directly download the zip file.
+  <p align="left">
+    <a>
+      <img src="https://rocky-allspice-628.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F29dc6b77-cc77-4dce-b299-866d6ff7c824%2F8f120129-5860-4249-a531-96f0b797dec6%2FTutorial(1).png?table=block&id=ae525dcd-2de2-48c7-8570-5a3e3961f903&spaceId=29dc6b77-cc77-4dce-b299-866d6ff7c824&width=2000&userId=&cache=v2" width="500" height="300" alt="Game Preview">
+    </a>
+  </p>
+* After extracting the downloaded zip file, you can find the executable file at the ``MagicBean/MagicBean2.0.0.4/MagicBean2.0.0.4/Windows/MagicBean.exe`` path and run it.
+  <p align="left">
+    <a>
+      <img src="https://rocky-allspice-628.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F29dc6b77-cc77-4dce-b299-866d6ff7c824%2Fd66f2951-5c9c-46b3-bd4c-5d873dd9114d%2FTutorial(2).png?table=block&id=c52cad54-eac5-45bd-aadf-9595cb36e027&spaceId=29dc6b77-cc77-4dce-b299-866d6ff7c824&width=2000&userId=&cache=v2" width="500" height="300" alt="Game Preview">
+    </a>
+  </p>
 <a name="Trailer-Title"></a>
 ## 🕯️ Game Trailer 
 **[⏫BACK TO TOP](#Top-Title)**
-[![Game Preview](https://file.notion.so/f/f/29dc6b77-cc77-4dce-b299-866d6ff7c824/a55fe535-0e08-4f5b-be4a-36ae45cf4285/MagicBeanYoutubeIMG.png?id=ced9cf69-0a76-450b-b2ed-f4f35281235e&table=block&spaceId=29dc6b77-cc77-4dce-b299-866d6ff7c824&expirationTimestamp=1715760000000&signature=0fwVZb8MbUXd2uGrAiKrt8ALPGxHrvlRV3SgBxEzuFw&downloadName=MagicBeanYoutubeIMG.png)](https://youtu.be/jOlzxBTxuZg?si=ZdTqOCf6b9-mu6jg)
+<p align="left">
+  <a href="https://youtu.be/jOlzxBTxuZg?si=ZdTqOCf6b9-mu6jg">
+    <img src="https://rocky-allspice-628.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F29dc6b77-cc77-4dce-b299-866d6ff7c824%2Fa55fe535-0e08-4f5b-be4a-36ae45cf4285%2FMagicBeanYoutubeIMG.png?table=block&id=ced9cf69-0a76-450b-b2ed-f4f35281235e&spaceId=29dc6b77-cc77-4dce-b299-866d6ff7c824&width=1920&userId=&cache=v2" width="500" height="300" alt="Game Preview">
+  </a>
+</p>
+
+
 
 <a name="Tutorial-Title"></a>
 ## 🕯️ Game Tutorial 
